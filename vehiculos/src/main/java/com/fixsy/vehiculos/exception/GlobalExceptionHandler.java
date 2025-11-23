@@ -1,4 +1,4 @@
-package com.fixsy.usuarios.exception;
+package com.fixsy.vehiculos.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
@@ -19,7 +19,7 @@ public class GlobalExceptionHandler {
 
         if (message != null && message.contains("ya est")) {
             status = HttpStatus.CONFLICT;
-            error = "Email ya registrado";
+            error = "Recurso duplicado";
         } else if (message != null && message.contains("no encontrado")) {
             status = HttpStatus.NOT_FOUND;
             error = "Recurso no encontrado";

@@ -1,4 +1,4 @@
-package com.fixsy.gestionsolicitudes.services;
+package com.fixsy.gestionsolicitudes.service;
 
 import com.fixsy.gestionsolicitudes.dto.ServiceRequestDTO;
 import com.fixsy.gestionsolicitudes.dto.ServiceRequestRequestDTO;
@@ -63,7 +63,7 @@ public class ServiceRequestService {
     public ServiceRequestDTO updateRequest(Long id, ServiceRequestRequestDTO requestDTO) {
         ServiceRequest request = repository.findById(id)
                 .orElseThrow(() -> new RuntimeException("Solicitud no encontrada"));
-        
+
         // Actualizar todos los campos editables
         request.setServiceType(requestDTO.getServiceType());
         request.setVehicleInfo(requestDTO.getVehicleInfo());
@@ -77,7 +77,7 @@ public class ServiceRequestService {
         if (requestDTO.getNotes() != null) {
             request.setNotes(requestDTO.getNotes());
         }
-        
+
         ServiceRequest updated = repository.save(request);
         return convertToDTO(updated);
     }
@@ -123,4 +123,3 @@ public class ServiceRequestService {
         );
     }
 }
-
