@@ -1,0 +1,13 @@
+com\fixsy\vehiculosservice\dto\VehicleUpdateRequest.class
+com\fixsy\vehiculosservice\entity\Vehicle.class
+com\fixsy\vehiculosservice\service\VehicleService.class
+com\fixsy\vehiculosservice\dto\ErrorResponse$ErrorResponseBuilder.class
+com\fixsy\vehiculosservice\config\SwaggerConfig.class
+com\fixsy\vehiculosservice\repository\VehicleRepository.class
+com\fixsy\vehiculosservice\dto\VehicleResponse.class
+com\fixsy\vehiculosservice\dto\VehicleRequest.class
+com\fixsy\vehiculosservice\exception\GlobalExceptionHandler.class
+com\fixsy\vehiculosservice\VehiculosServiceApplication.class
+com\fixsy\vehiculosservice\dto\VehicleResponse$VehicleResponseBuilder.class
+com\fixsy\vehiculosservice\dto\ErrorResponse.class
+com\fixsy\vehiculosservice\controller\VehicleController.class

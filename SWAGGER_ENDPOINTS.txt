@@ -1,0 +1,5 @@
+Usuarios (8081): http://localhost:8081/swagger-ui/index.html  | API Docs: http://localhost:8081/v3/api-docs
+Solicitudes (8082): http://localhost:8082/swagger-ui/index.html  | API Docs: http://localhost:8082/v3/api-docs
+Catálogo (8083): http://localhost:8083/swagger-ui/index.html  | API Docs: http://localhost:8083/v3/api-docs
+Reseñas (8084): http://localhost:8084/swagger-ui/index.html  | API Docs: http://localhost:8084/v3/api-docs
+Vehículos (8085): http://localhost:8085/swagger-ui/index.html  | API Docs: http://localhost:8085/v3/api-docs

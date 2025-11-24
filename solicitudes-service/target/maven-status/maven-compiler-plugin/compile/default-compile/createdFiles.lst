@@ -1,0 +1,16 @@
+com\fixsy\solicitudesservice\dto\ServiceRequestResponse$ServiceRequestResponseBuilder.class
+com\fixsy\solicitudesservice\entity\ServiceRequest.class
+com\fixsy\solicitudesservice\dto\ErrorResponse$ErrorResponseBuilder.class
+com\fixsy\solicitudesservice\exception\GlobalExceptionHandler.class
+com\fixsy\solicitudesservice\dto\ServiceRequestAssignMechanicRequest.class
+com\fixsy\solicitudesservice\dto\ServiceRequestStatusUpdateRequest.class
+com\fixsy\solicitudesservice\SolicitudesServiceApplication.class
+com\fixsy\solicitudesservice\dto\ErrorResponse.class
+com\fixsy\solicitudesservice\controller\ServiceRequestController.class
+com\fixsy\solicitudesservice\dto\ServiceRequestResponse.class
+com\fixsy\solicitudesservice\dto\ServiceRequestUpdateRequest.class
+com\fixsy\solicitudesservice\entity\ServiceRequestStatus.class
+com\fixsy\solicitudesservice\repository\ServiceRequestRepository.class
+com\fixsy\solicitudesservice\config\SwaggerConfig.class
+com\fixsy\solicitudesservice\dto\ServiceRequestCreateRequest.class
+com\fixsy\solicitudesservice\service\ServiceRequestService.class

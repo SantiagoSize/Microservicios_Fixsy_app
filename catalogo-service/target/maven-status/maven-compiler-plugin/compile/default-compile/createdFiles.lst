@@ -1,0 +1,13 @@
+com\fixsy\catalogoservice\controller\ServiceController.class
+com\fixsy\catalogoservice\CatalogoServiceApplication.class
+com\fixsy\catalogoservice\dto\ServiceResponse$ServiceResponseBuilder.class
+com\fixsy\catalogoservice\dto\ErrorResponse.class
+com\fixsy\catalogoservice\entity\ServiceItem.class
+com\fixsy\catalogoservice\config\SwaggerConfig.class
+com\fixsy\catalogoservice\dto\ServiceResponse.class
+com\fixsy\catalogoservice\dto\ErrorResponse$ErrorResponseBuilder.class
+com\fixsy\catalogoservice\exception\GlobalExceptionHandler.class
+com\fixsy\catalogoservice\dto\ServiceUpdateRequest.class
+com\fixsy\catalogoservice\repository\ServiceRepository.class
+com\fixsy\catalogoservice\service\ServiceCatalogService.class
+com\fixsy\catalogoservice\dto\ServiceCreateRequest.class
