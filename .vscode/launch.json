@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CatalogoServiceApplication<catalogo-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fixsy.catalogoservice.CatalogoServiceApplication",
+            "projectName": "catalogo-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ReviewsServiceApplication<reviews-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fixsy.reviewsservice.ReviewsServiceApplication",
+            "projectName": "reviews-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SolicitudesServiceApplication<solicitudes-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fixsy.solicitudesservice.SolicitudesServiceApplication",
+            "projectName": "solicitudes-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-UsuariosServiceApplication<usuarios-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fixsy.usuariosservice.UsuariosServiceApplication",
+            "projectName": "usuarios-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-VehiculosServiceApplication<vehiculos-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fixsy.vehiculosservice.VehiculosServiceApplication",
+            "projectName": "vehiculos-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+com\fixsy\reviewsservice\service\ReviewService.class
+com\fixsy\reviewsservice\exception\GlobalExceptionHandler.class
+com\fixsy\reviewsservice\entity\Review.class
+com\fixsy\reviewsservice\dto\ReviewResponse$ReviewResponseBuilder.class
+com\fixsy\reviewsservice\config\SwaggerConfig.class
+com\fixsy\reviewsservice\dto\ReviewCreateRequest.class
+com\fixsy\reviewsservice\dto\ErrorResponse.class
+com\fixsy\reviewsservice\controller\ReviewController.class
+com\fixsy\reviewsservice\repository\ReviewRepository.class
+com\fixsy\reviewsservice\dto\ErrorResponse$ErrorResponseBuilder.class
+com\fixsy\reviewsservice\dto\ReviewResponse.class
+com\fixsy\reviewsservice\ReviewsServiceApplication.class

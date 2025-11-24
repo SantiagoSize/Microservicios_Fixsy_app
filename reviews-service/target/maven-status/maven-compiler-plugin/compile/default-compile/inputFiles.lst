@@ -1,0 +1,10 @@
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\config\SwaggerConfig.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\controller\ReviewController.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\dto\ErrorResponse.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\dto\ReviewCreateRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\dto\ReviewResponse.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\entity\Review.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\exception\GlobalExceptionHandler.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\repository\ReviewRepository.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\ReviewsServiceApplication.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\reviews-service\src\main\java\com\fixsy\reviewsservice\service\ReviewService.java

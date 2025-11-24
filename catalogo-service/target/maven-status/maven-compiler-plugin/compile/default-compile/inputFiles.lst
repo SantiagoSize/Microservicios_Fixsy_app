@@ -1,0 +1,11 @@
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\CatalogoServiceApplication.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\config\SwaggerConfig.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\controller\ServiceController.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\dto\ErrorResponse.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\dto\ServiceCreateRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\dto\ServiceResponse.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\dto\ServiceUpdateRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\entity\ServiceItem.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\exception\GlobalExceptionHandler.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\repository\ServiceRepository.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\catalogo-service\src\main\java\com\fixsy\catalogoservice\service\ServiceCatalogService.java

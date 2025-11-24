@@ -1,0 +1,14 @@
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\config\SwaggerConfig.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\controller\ServiceRequestController.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\dto\ErrorResponse.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\dto\ServiceRequestAssignMechanicRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\dto\ServiceRequestCreateRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\dto\ServiceRequestResponse.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\dto\ServiceRequestStatusUpdateRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\dto\ServiceRequestUpdateRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\entity\ServiceRequest.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\entity\ServiceRequestStatus.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\exception\GlobalExceptionHandler.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\repository\ServiceRequestRepository.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\service\ServiceRequestService.java
+C:\Users\sahnb\OneDrive\Escritorio\Microservicios_Fixsy_app\solicitudes-service\src\main\java\com\fixsy\solicitudesservice\SolicitudesServiceApplication.java
